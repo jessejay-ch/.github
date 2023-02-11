@@ -24,7 +24,7 @@ body,html {width:100%; height:100%;}
 </body>
 </html>
 <!-- wp:image {"id":368,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img
+<figure class="iframe size-large"><img
 src="https://m30norg.files.wordpress.com/2022/12/dfkt-e280a2-diamonds-animation_original.gif?w=
 640" alt="" class="wp-image-368"/><figcaption class="wp-element-caption">Mixed by DJ Jesse
 Jay</figcaption></figure>
@@ -41,9 +41,9 @@ Techno, House, Progressive, Prog-House, Progressive-House, Tech-House, progressi
 <p>https://soundcloud.com/jessejay</p>
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":370,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img
+<figure class="iframe-block-image size-large"><img
 src="https://m30norg.files.wordpress.com/2022/12/img_2847-animation_original.gif?w=640" alt=""
-class="wp-image-370"/><figcaption class="wp-element-caption">Jesse Jay Laser</figcaption></figure>
+class="iframe-image-370"/><figcaption class="iframe-element-caption">Jesse Jay Laser</figcaption></figure>
 <!-- /wp:image -->
 <database name="jessejay">
 <!-- Tabelle evenTable -->
